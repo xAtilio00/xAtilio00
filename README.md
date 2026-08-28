@@ -1,0 +1,1 @@
+# Hola, soy Atilio Altamirano, Estudiante de la carrera de Licenciatura en Informática Educativa. Actualmente cursando Teoría de Sistemas Operativos.
